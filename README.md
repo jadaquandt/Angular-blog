@@ -1,4 +1,5 @@
-# MyApp
+# Creating a blog application with Angular.
+## Continuing to learn and improve my knowledge of Angular and TypsScript
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
